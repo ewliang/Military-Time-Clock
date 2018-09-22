@@ -1,0 +1,15 @@
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+
+#clock {
+  font-family: 'Lato';
+  font-size: 48px;
+  font-weight: 300;
+  color: #fff;
+}
