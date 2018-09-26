@@ -3,6 +3,8 @@ A simple military time clock made using HTML, CSS, and Javascript that changes t
 
   DEMO: [https://ewliang.github.io/Military-Time-Clock/](https://ewliang.github.io/Military-Time-Clock/)
 
+![Military Time Clock Screenshot](https://ewliang.github.io/Military-Time-Clock/screenshot.jpg)
+
 ## Features
 - A 24 hour military time clock that updates every second.
 - Background color changes every time based on RGB values grabbed from current hours, minutes, and seconds.
