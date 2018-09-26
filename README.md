@@ -13,3 +13,6 @@ A simple military time clock made using HTML, CSS, and Javascript that changes t
 Eric Liang
 - Website [https://www.eric-liang.com](https://www.eric-liang.com)
 - Github [https://www.github.com/ewliang](https://www.github.com/ewliang)
+
+## License
+This project is protected by the GPL v3.0 License. More details can be found in the LICENSE file.
